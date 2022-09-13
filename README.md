@@ -1,2 +1,3 @@
 # Employee-Promotion-
-Classification Models
+The given dataset (uncleaned) from Kaggle consists of a variety of features like KPIs, Previous year ratings, Training scores, Experience and education among many others.The task is to determine whether an employee is eligible for promotion or not. The analysis is performed by cleaning the dataset using different methods. It also involves converting catergorical variables into numeric values using Label Encoding. Univariate and Bivariate analysis is also performed. Lastly, numerous classification models are designed to determine the answer and are then optmized using Hyper parameter tuning.
+
